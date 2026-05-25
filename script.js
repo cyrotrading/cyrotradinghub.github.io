@@ -55,12 +55,6 @@ const SOCIAL_LINKS = [
     url: "https://axiom.trade/@cyro",
   },
   { name: "Twitch", iconKey: "twitch", url: "https://www.twitch.tv/cyrotrading" },
-  {
-    name: "Abstract Profile",
-    iconImage: "./assets/abstract.jpg",
-    iconClass: "icon-abstract",
-    url: "https://portal.abs.xyz/profile/0x991b87ec4fe400178c3f54ea26ae445c2351e1ec",
-  },
 ];
 
 function setProfileContent() {
