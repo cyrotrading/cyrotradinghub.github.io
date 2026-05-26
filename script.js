@@ -45,21 +45,21 @@ const ICON_SVGS = {
 };
 
 const SOCIAL_LINKS = [
-  { name: "Twitter", iconKey: "twitter", url: "https://x.com/cyrotrading" },
-  { name: "YouTube", iconKey: "youtube", url: "https://www.youtube.com/@cyrotrading" },
-  { name: "Cyro's Trading Journal", iconKey: "telegram", url: "https://t.me/cyrotrades" },
-  {
-    name: "Trading Platform",
-    iconImage: "./assets/fomo.jpg",
-    iconClass: "icon-fomo",
-    url: "https://fomo.family/r/cyrotrading",
-  },
   {
     name: "Implicit Crypto Group",
     iconImage: "./assets/discord.jpg",
     iconClass: "icon-discord",
     url: "https://discord.gg/implicit",
   },
+  {
+    name: "Trading Platform",
+    iconImage: "./assets/fomo.jpg",
+    iconClass: "icon-fomo",
+    url: "https://fomo.family/r/cyrotrading",
+  },
+  { name: "Twitter", iconKey: "twitter", url: "https://x.com/cyrotrading" },
+  { name: "Cyro's Trading Journal", iconKey: "telegram", url: "https://t.me/cyrotrades" },
+  { name: "YouTube", iconKey: "youtube", url: "https://www.youtube.com/@cyrotrading" },
 ];
 
 function setProfileContent() {
