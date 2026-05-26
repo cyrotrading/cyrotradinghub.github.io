@@ -54,7 +54,12 @@ const SOCIAL_LINKS = [
     iconClass: "icon-fomo",
     url: "https://fomo.family/r/cyrotrading",
   },
-  { name: "Twitch", iconKey: "twitch", url: "https://www.twitch.tv/cyrotrading" },
+  {
+    name: "Implicit Crypto Group",
+    iconImage: "./assets/discord.jpg",
+    iconClass: "icon-discord",
+    url: "https://discord.gg/implicit",
+  },
 ];
 
 function setProfileContent() {
