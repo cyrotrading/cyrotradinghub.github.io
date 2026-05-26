@@ -50,9 +50,9 @@ const SOCIAL_LINKS = [
   { name: "Cyro's Trading Journal", iconKey: "telegram", url: "https://t.me/cyrotrades" },
   {
     name: "Trading Platform",
-    iconImage: "./assets/axiom.jpg",
-    iconClass: "icon-axiom",
-    url: "https://axiom.trade/@cyro",
+    iconImage: "./assets/fomo.jpg",
+    iconClass: "icon-fomo",
+    url: "https://fomo.family/r/cyrotrading",
   },
   { name: "Twitch", iconKey: "twitch", url: "https://www.twitch.tv/cyrotrading" },
 ];
